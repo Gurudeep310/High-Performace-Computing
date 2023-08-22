@@ -1,0 +1,14 @@
+set terminal pngcairo enhanced font 'Verdana,12'
+set output 'speedup.png'
+
+set title "Threads vs. Speedup"
+set xlabel "Number of threads"
+set ylabel "Speedup"
+
+set style fill solid
+set boxwidth 0.5
+
+plot 'speedup.txt' using 1:2 with boxes lc rgb "blue" title "Speedup"
+
+
+gnuplot speedup.gnuplot

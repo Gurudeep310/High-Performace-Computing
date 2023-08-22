@@ -1,0 +1,17 @@
+Execution time with 1 threads: 48.586195
+Execution time with 2 threads: 24.449213
+Execution time with 3 threads: 16.553246
+Execution time with 4 threads: 12.438417
+Execution time with 5 threads: 10.187026
+Execution time with 6 threads: 8.498566
+Execution time with 7 threads: 7.620242
+Execution time with 8 threads: 7.018582
+Execution time with 9 threads: 6.789964
+Execution time with 10 threads: 6.796961
+Execution time with 11 threads: 6.574017
+Execution time with 12 threads: 5.981159
+Execution time with 13 threads: 6.035617
+Execution time with 14 threads: 5.647220
+Execution time with 15 threads: 5.412560
+Execution time with 16 threads: 5.147352
+

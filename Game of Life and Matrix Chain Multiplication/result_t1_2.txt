@@ -1,0 +1,53 @@
+16384 16384 
+Execution time with 1 threads: 12.102896
+Execution time with 2 threads: 6.089265
+Execution time with 3 threads: 4.121609
+Execution time with 4 threads: 3.098624
+Execution time with 5 threads: 2.529424
+Execution time with 6 threads: 2.130836
+Execution time with 7 threads: 1.864526
+Execution time with 8 threads: 1.804678
+Execution time with 9 threads: 1.811711
+Execution time with 10 threads: 1.728589
+Execution time with 11 threads: 1.636019
+Execution time with 12 threads: 1.504283
+Execution time with 13 threads: 1.457282
+Execution time with 14 threads: 1.414999
+Execution time with 15 threads: 1.366332
+Execution time with 16 threads: 1.304326
+
+8192 8192
+Execution time with 1 threads: 3.038188
+Execution time with 2 threads: 1.545027
+Execution time with 3 threads: 1.046585
+Execution time with 4 threads: 0.801737
+Execution time with 5 threads: 0.650477
+Execution time with 6 threads: 0.535785
+Execution time with 7 threads: 0.476589
+Execution time with 8 threads: 0.451181
+Execution time with 9 threads: 0.465795
+Execution time with 10 threads: 0.442913
+Execution time with 11 threads: 0.433772
+Execution time with 12 threads: 0.383792
+Execution time with 13 threads: 0.382257
+Execution time with 14 threads: 0.379713
+Execution time with 15 threads: 0.364577
+Execution time with 16 threads: 0.335768
+4096 4096
+Execution time with 1 threads: 1.072778
+Execution time with 2 threads: 0.552574
+Execution time with 3 threads: 0.381889
+Execution time with 4 threads: 0.282742
+Execution time with 5 threads: 0.238645
+Execution time with 6 threads: 0.206605
+Execution time with 7 threads: 0.175280
+Execution time with 8 threads: 0.164770
+Execution time with 9 threads: 0.175984
+Execution time with 10 threads: 0.163036
+Execution time with 11 threads: 0.149462
+Execution time with 12 threads: 0.148038
+Execution time with 13 threads: 0.143219
+Execution time with 14 threads: 0.142564
+Execution time with 15 threads: 0.133245
+Execution time with 16 threads: 0.127771
+
