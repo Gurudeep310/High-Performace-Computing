@@ -1,6 +1,0 @@
-set xlabel "Number of Threads"
-set ylabel "Execution Time (s)"
-set title "Execution Time vs. Number of Threads"
-set term png
-set output "output.png"
-plot "data.txt" using 1:2 with linespoints title "Execution Time"
