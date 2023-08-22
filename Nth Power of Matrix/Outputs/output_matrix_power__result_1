@@ -1,0 +1,227 @@
+Size 512
+numthread 1
+size 512 thread 1 power 2 elapsed 0.43
+size 1024 thread 1 power 2 elapsed 3.39
+size 2408 thread 1 power 2 elapsed 70.09
+
+
+size 512 thread 1 power 4 elapsed 1.70
+size 2408 thread 1 power 4 elapsed 280.41
+size 1024 thread 1 power 4 elapsed 13.53
+
+size 512 thread 1 power 6 elapsed 3.81
+size 2408 thread 1 power 6 elapsed 630.05
+size 1024 thread 1 power 6 elapsed 30.40
+
+size 512 thread 1 power 8 elapsed 6.76
+size 2408 thread 1 power 8 elapsed 1120.95
+size 1024 thread 1 power 8 elapsed 54.02
+
+size 512 thread 1 power 10 elapsed 10.56
+size 2408 thread 1 power 10 elapsed 1754.99
+size 1024 thread 1 power 10 elapsed 84.59
+
+size 512 thread 1 power 12 elapsed 15.21
+size 2408 thread 1 power 12 elapsed 2523.63
+size 1024 thread 1 power 12 elapsed 121.83
+
+size 512 thread 1 power 14 elapsed 20.69
+size 2408 thread 1 power 14 elapsed 3437.38
+size 1024 thread 1 power 14 elapsed 165.70
+
+size 512 thread 1 power 16 elapsed 27.13
+size 2408 thread 1 power 16 elapsed 4489.28
+size 1024 thread 1 power 16 elapsed 216.54
+
+numthread 2
+size 512 thread 2 power 2 elapsed 0.61
+size 1024 thread 2 power 2 elapsed 6.33
+size 2408 thread 2 power 2 elapsed 97.06
+
+size 512 thread 2 power 4 elapsed 2.46
+size 1024 thread 2 power 4 elapsed 25.28
+size 2408 thread 2 power 4 elapsed 387.99
+
+size 512 thread 2 power 6 elapsed 5.47
+size 1024 thread 2 power 6 elapsed 56.81
+size 2408 thread 2 power 6 elapsed 873.09
+
+size 512 thread 2 power 10 elapsed 5.48
+size 1024 thread 2 power 10 elapsed 40.88
+size 2408 thread 2 power 10 elapsed 873.09
+
+size 512 thread 2 power 8 elapsed 9.71
+size 1024 thread 2 power 8 elapsed 101.02
+size 2408 thread 2 power 8 elapsed 1553.88
+
+size 512 thread 2 power 12 elapsed 11.55
+size 1024 thread 2 power 12 elapsed 90.90
+size 2408 thread 2 power 12 elapsed 1840.38
+
+size 512 thread 2 power 14 elapsed 17.55
+size 1024 thread 2 power 14 elapsed 137.36
+size 2408 thread 2 power 14 elapsed 2763.00
+
+size 512 thread 2 power 16 elapsed 24.52
+size 1024 thread 2 power 16 elapsed 188.02
+size 2408 thread 2 power 16 elapsed 3811.20
+
+numthread 4
+size 512 thread 4 power 2 elapsed 0.71
+size 1024 thread 4 power 2 elapsed 16.44
+size 2408 thread 4 power 2 elapsed 92.09
+
+size 512 thread 4 power 4 elapsed 2.39
+size 1024 thread 4 power 4 elapsed 63.90
+
+size 512 thread 4 power 10 elapsed 5.41
+size 1024 thread 4 power 10 elapsed 42.39
+
+size 512 thread 4 power 6 elapsed 7.07
+size 1024 thread 4 power 6 elapsed 28.37
+
+size 512 thread 4 power 14 elapsed 7.12
+size 1024 thread 4 power 14 elapsed 61.31
+
+size 512 thread 4 power 12 elapsed 11.19
+size 1024 thread 4 power 12 elapsed 101.92
+
+size 512 thread 4 power 8 elapsed 14.54
+size 1024 thread 4 power 8 elapsed 66.60
+
+size 512 thread 4 power 16 elapsed 15.02
+size 1024 thread 4 power 16 elapsed 122.17
+
+numthread 6
+size 512 thread 6 power 2 elapsed 1.24
+size 1024 thread 6 power 2 elapsed 36.13
+
+size 512 thread 6 power 4 elapsed 4.96
+size 1024 thread 6 power 4 elapsed 90.48
+
+size 512 thread 6 power 14 elapsed 8.24
+size 1024 thread 6 power 14 elapsed 68.65
+
+size 512 thread 6 power 12 elapsed 8.78
+size 1024 thread 6 power 12 elapsed 86.07
+
+size 512 thread 6 power 10 elapsed 8.78
+size 1024 thread 6 power 10 elapsed 79.18
+
+size 512 thread 6 power 16 elapsed 10.21
+size 1024 thread 6 power 16 elapsed 88.00
+
+size 512 thread 6 power 6 elapsed 10.59
+size 1024 thread 6 power 6 elapsed 29.46
+
+size 512 thread 6 power 8 elapsed 13.55
+size 1024 thread 6 power 8 elapsed 79.85
+
+
+numthread 8
+size 512 thread 8 power 2 elapsed 1.51
+size 1024 thread 8 power 2 elapsed 26.93
+
+size 512 thread 8 power 4 elapsed 10.27
+size 1024 thread 8 power 4 elapsed 40.80
+
+size 512 thread 8 power 6 elapsed 5.08
+size 1024 thread 8 power 6 elapsed 50.52
+
+size 512 thread 8 power 8 elapsed 7.83
+size 1024 thread 8 power 8 elapsed 62.31
+
+size 512 thread 8 power 12 elapsed 9.10
+size 1024 thread 8 power 12 elapsed 105.06
+
+size 512 thread 8 power 10 elapsed 9.98
+size 1024 thread 8 power 10 elapsed 73.27
+
+size 512 thread 8 power 14 elapsed 10.05
+size 1024 thread 8 power 14 elapsed 84.50
+
+size 512 thread 8 power 16 elapsed 12.06
+size 1024 thread 8 power 16 elapsed 87.55
+
+
+
+numthread 10
+size 512 thread 10 power 2 elapsed 1.34
+size 512 thread 10 power 6 elapsed 4.83
+size 512 thread 10 power 10 elapsed 7.43
+size 512 thread 10 power 8 elapsed 7.65
+size 512 thread 10 power 12 elapsed 8.74
+size 512 thread 10 power 4 elapsed 9.83
+size 512 thread 10 power 14 elapsed 9.83
+size 512 thread 10 power 16 elapsed 12.20
+numthread 12
+size 512 thread 12 power 2 elapsed 1.29
+size 512 thread 12 power 6 elapsed 4.89
+size 512 thread 12 power 10 elapsed 7.59
+size 512 thread 12 power 8 elapsed 8.30
+size 512 thread 12 power 12 elapsed 8.92
+size 512 thread 12 power 14 elapsed 9.57
+size 512 thread 12 power 4 elapsed 9.76
+size 512 thread 12 power 16 elapsed 12.19
+numthread 14
+size 512 thread 14 power 2 elapsed 1.26
+size 512 thread 14 power 4 elapsed 3.09
+size 512 thread 14 power 6 elapsed 4.59
+size 512 thread 14 power 10 elapsed 6.52
+size 512 thread 14 power 8 elapsed 6.99
+size 512 thread 14 power 12 elapsed 7.98
+size 512 thread 14 power 16 elapsed 11.66
+size 512 thread 14 power 14 elapsed 14.00
+
+numthread 16
+size 512 thread 16 power 2 elapsed 1.34
+size 512 thread 16 power 4 elapsed 2.69
+size 512 thread 16 power 6 elapsed 4.72
+size 512 thread 16 power 10 elapsed 7.21
+size 512 thread 16 power 8 elapsed 7.83
+size 512 thread 16 power 14 elapsed 9.03
+size 512 thread 16 power 16 elapsed 11.25
+size 512 thread 16 power 12 elapsed 13.32
+Size 1024
+
+numthread 10
+size 1024 thread 10 power 2 elapsed 12.00
+size 1024 thread 10 power 4 elapsed 35.07
+size 1024 thread 10 power 6 elapsed 47.90
+size 1024 thread 10 power 8 elapsed 49.60
+size 1024 thread 10 power 10 elapsed 59.39
+size 1024 thread 10 power 14 elapsed 83.75
+size 1024 thread 10 power 16 elapsed 91.51
+size 1024 thread 10 power 12 elapsed 109.44
+
+numthread 12
+size 1024 thread 12 power 2 elapsed 10.56
+size 1024 thread 12 power 4 elapsed 34.88
+size 1024 thread 12 power 6 elapsed 41.93
+size 1024 thread 12 power 8 elapsed 48.74
+size 1024 thread 12 power 10 elapsed 67.92
+size 1024 thread 12 power 14 elapsed 82.08
+size 1024 thread 12 power 16 elapsed 91.20
+size 1024 thread 12 power 12 elapsed 109.42
+
+numthread 14
+size 1024 thread 14 power 2 elapsed 11.38
+size 1024 thread 14 power 4 elapsed 25.57
+size 1024 thread 14 power 6 elapsed 39.55
+size 1024 thread 14 power 8 elapsed 47.07
+size 1024 thread 14 power 10 elapsed 63.03
+size 1024 thread 14 power 14 elapsed 72.02
+size 1024 thread 14 power 16 elapsed 98.53
+size 1024 thread 14 power 12 elapsed 110.93
+
+numthread 16
+size 1024 thread 16 power 2 elapsed 10.65
+size 1024 thread 16 power 4 elapsed 25.46
+size 1024 thread 16 power 6 elapsed 39.41
+size 1024 thread 16 power 8 elapsed 45.46
+size 1024 thread 16 power 10 elapsed 63.21
+size 1024 thread 16 power 14 elapsed 72.81
+size 1024 thread 16 power 16 elapsed 98.61
+size 1024 thread 16 power 12 elapsed 110.68
+Size 2408
+

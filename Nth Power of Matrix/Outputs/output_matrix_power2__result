@@ -1,0 +1,194 @@
+Size 512
+numthread 1
+size 512 thread 1 power 2 avg_elapsed 2.06
+size 512 thread 1 power 4 avg_elapsed 4.12
+size 512 thread 1 power 6 avg_elapsed 6.17
+size 512 thread 1 power 8 avg_elapsed 8.23
+size 512 thread 1 power 10 avg_elapsed 10.28
+size 512 thread 1 power 12 avg_elapsed 12.34
+size 512 thread 1 power 14 avg_elapsed 14.39
+size 512 thread 1 power 16 avg_elapsed 16.45
+numthread 2
+size 512 thread 2 power 2 avg_elapsed 19.09
+size 512 thread 2 power 10 avg_elapsed 19.09
+size 512 thread 2 power 4 avg_elapsed 21.72
+size 512 thread 2 power 12 avg_elapsed 21.72
+size 512 thread 2 power 6 avg_elapsed 24.36
+size 512 thread 2 power 14 avg_elapsed 24.36
+size 512 thread 2 power 8 avg_elapsed 27.00
+size 512 thread 2 power 16 avg_elapsed 27.53
+numthread 4
+size 512 thread 4 power 14 avg_elapsed 30.74
+size 512 thread 4 power 10 avg_elapsed 30.82
+size 512 thread 4 power 6 avg_elapsed 31.10
+size 512 thread 4 power 2 avg_elapsed 31.27
+size 512 thread 4 power 16 avg_elapsed 33.95
+size 512 thread 4 power 12 avg_elapsed 34.51
+size 512 thread 4 power 8 avg_elapsed 35.04
+size 512 thread 4 power 4 avg_elapsed 35.52
+numthread 6
+size 512 thread 6 power 6 avg_elapsed 40.11
+size 512 thread 6 power 12 avg_elapsed 40.28
+size 512 thread 6 power 16 avg_elapsed 40.33
+size 512 thread 6 power 2 avg_elapsed 41.05
+size 512 thread 6 power 10 avg_elapsed 41.14
+size 512 thread 6 power 14 avg_elapsed 41.24
+size 512 thread 6 power 8 avg_elapsed 43.25
+size 512 thread 6 power 4 avg_elapsed 44.16
+numthread 8
+size 512 thread 8 power 8 avg_elapsed 49.76
+size 512 thread 8 power 12 avg_elapsed 50.22
+size 512 thread 8 power 6 avg_elapsed 51.28
+size 512 thread 8 power 10 avg_elapsed 51.34
+size 512 thread 8 power 4 avg_elapsed 52.35
+size 512 thread 8 power 2 avg_elapsed 52.89
+size 512 thread 8 power 16 avg_elapsed 53.47
+size 512 thread 8 power 14 avg_elapsed 55.54
+numthread 10
+size 512 thread 10 power 8 avg_elapsed 61.28
+size 512 thread 10 power 12 avg_elapsed 62.00
+size 512 thread 10 power 6 avg_elapsed 63.14
+size 512 thread 10 power 10 avg_elapsed 63.50
+size 512 thread 10 power 4 avg_elapsed 64.51
+size 512 thread 10 power 14 avg_elapsed 65.00
+size 512 thread 10 power 16 avg_elapsed 65.58
+size 512 thread 10 power 2 avg_elapsed 67.64
+numthread 12
+size 512 thread 12 power 8 avg_elapsed 73.20
+size 512 thread 12 power 12 avg_elapsed 73.60
+size 512 thread 12 power 6 avg_elapsed 74.68
+size 512 thread 12 power 10 avg_elapsed 74.87
+size 512 thread 12 power 4 avg_elapsed 75.90
+size 512 thread 12 power 2 avg_elapsed 76.42
+size 512 thread 12 power 14 avg_elapsed 76.99
+size 512 thread 12 power 16 avg_elapsed 79.04
+numthread 14
+size 512 thread 14 power 8 avg_elapsed 84.47
+size 512 thread 14 power 12 avg_elapsed 84.61
+size 512 thread 14 power 6 avg_elapsed 85.59
+size 512 thread 14 power 10 avg_elapsed 85.82
+size 512 thread 14 power 4 avg_elapsed 86.86
+size 512 thread 14 power 16 avg_elapsed 87.34
+size 512 thread 14 power 2 avg_elapsed 87.91
+size 512 thread 14 power 14 avg_elapsed 89.93
+numthread 16
+size 512 thread 16 power 8 avg_elapsed 95.41
+size 512 thread 16 power 12 avg_elapsed 95.66
+size 512 thread 16 power 6 avg_elapsed 96.65
+size 512 thread 16 power 4 avg_elapsed 96.93
+size 512 thread 16 power 10 avg_elapsed 97.99
+size 512 thread 16 power 14 avg_elapsed 98.49
+size 512 thread 16 power 16 avg_elapsed 99.07
+size 512 thread 16 power 2 avg_elapsed 101.13
+Size 1024
+numthread 1
+size 1024 thread 1 power 2 avg_elapsed 117.68
+size 1024 thread 1 power 4 avg_elapsed 134.24
+size 1024 thread 1 power 6 avg_elapsed 150.79
+size 1024 thread 1 power 8 avg_elapsed 167.35
+size 1024 thread 1 power 10 avg_elapsed 183.93
+size 1024 thread 1 power 12 avg_elapsed 200.48
+size 1024 thread 1 power 14 avg_elapsed 217.03
+size 1024 thread 1 power 16 avg_elapsed 233.58
+numthread 2
+size 1024 thread 2 power 2 avg_elapsed 254.73
+size 1024 thread 2 power 10 avg_elapsed 254.75
+size 1024 thread 2 power 4 avg_elapsed 275.88
+size 1024 thread 2 power 12 avg_elapsed 275.90
+size 1024 thread 2 power 6 avg_elapsed 297.03
+size 1024 thread 2 power 14 avg_elapsed 297.06
+size 1024 thread 2 power 8 avg_elapsed 318.20
+size 1024 thread 2 power 16 avg_elapsed 322.45
+numthread 4
+size 1024 thread 4 power 10 avg_elapsed 347.78
+size 1024 thread 4 power 14 avg_elapsed 350.75
+size 1024 thread 4 power 2 avg_elapsed 350.77
+size 1024 thread 4 power 6 avg_elapsed 350.87
+size 1024 thread 4 power 12 avg_elapsed 374.17
+size 1024 thread 4 power 16 avg_elapsed 377.61
+size 1024 thread 4 power 4 avg_elapsed 379.95
+size 1024 thread 4 power 8 avg_elapsed 383.84
+numthread 6
+size 1024 thread 6 power 12 avg_elapsed 420.30
+size 1024 thread 6 power 6 avg_elapsed 428.07
+size 1024 thread 6 power 10 avg_elapsed 434.19
+size 1024 thread 6 power 16 avg_elapsed 440.68
+size 1024 thread 6 power 14 avg_elapsed 440.92
+size 1024 thread 6 power 2 avg_elapsed 441.22
+size 1024 thread 6 power 8 avg_elapsed 457.86
+size 1024 thread 6 power 4 avg_elapsed 465.35
+numthread 8
+size 1024 thread 8 power 8 avg_elapsed 512.68
+size 1024 thread 8 power 16 avg_elapsed 513.04
+size 1024 thread 8 power 6 avg_elapsed 519.37
+size 1024 thread 8 power 12 avg_elapsed 523.12
+size 1024 thread 8 power 4 avg_elapsed 532.82
+size 1024 thread 8 power 2 avg_elapsed 537.19
+size 1024 thread 8 power 10 avg_elapsed 541.93
+size 1024 thread 8 power 14 avg_elapsed 558.36
+numthread 10
+size 1024 thread 10 power 8 avg_elapsed 604.92
+size 1024 thread 10 power 12 avg_elapsed 606.79
+size 1024 thread 10 power 10 avg_elapsed 615.00
+size 1024 thread 10 power 16 avg_elapsed 618.58
+size 1024 thread 10 power 6 avg_elapsed 628.23
+size 1024 thread 10 power 14 avg_elapsed 632.43
+size 1024 thread 10 power 2 avg_elapsed 637.17
+size 1024 thread 10 power 4 avg_elapsed 653.49
+numthread 12
+size 1024 thread 12 power 8 avg_elapsed 699.68
+size 1024 thread 12 power 12 avg_elapsed 701.55
+size 1024 thread 12 power 10 avg_elapsed 709.70
+size 1024 thread 12 power 16 avg_elapsed 713.16
+size 1024 thread 12 power 6 avg_elapsed 722.60
+size 1024 thread 12 power 4 avg_elapsed 726.76
+size 1024 thread 12 power 2 avg_elapsed 731.47
+size 1024 thread 12 power 14 avg_elapsed 747.75
+numthread 14
+size 1024 thread 14 power 12 avg_elapsed 794.00
+size 1024 thread 14 power 2 avg_elapsed 795.96
+size 1024 thread 14 power 16 avg_elapsed 802.50
+size 1024 thread 14 power 10 avg_elapsed 807.21
+size 1024 thread 14 power 4 avg_elapsed 812.70
+size 1024 thread 14 power 14 avg_elapsed 815.95
+size 1024 thread 14 power 8 avg_elapsed 820.76
+size 1024 thread 14 power 6 avg_elapsed 836.47
+numthread 16
+size 1024 thread 16 power 16 avg_elapsed 882.98
+size 1024 thread 16 power 12 avg_elapsed 885.31
+size 1024 thread 16 power 4 avg_elapsed 893.71
+size 1024 thread 16 power 10 avg_elapsed 897.09
+size 1024 thread 16 power 2 avg_elapsed 906.73
+size 1024 thread 16 power 8 avg_elapsed 911.01
+size 1024 thread 16 power 14 avg_elapsed 915.75
+size 1024 thread 16 power 6 avg_elapsed 932.55
+Size 2048
+numthread 1
+size 2048 thread 1 power 2 avg_elapsed 1077.42
+size 2048 thread 1 power 4 avg_elapsed 1221.29
+size 2048 thread 1 power 6 avg_elapsed 1365.29
+size 2048 thread 1 power 8 avg_elapsed 1509.16
+size 2048 thread 1 power 10 avg_elapsed 1653.09
+size 2048 thread 1 power 12 avg_elapsed 1796.63
+size 2048 thread 1 power 14 avg_elapsed 1940.32
+size 2048 thread 1 power 16 avg_elapsed 2083.73
+numthread 2
+size 2048 thread 2 power 2 avg_elapsed 2257.45
+size 2048 thread 2 power 10 avg_elapsed 2257.64
+size 2048 thread 2 power 4 avg_elapsed 2431.34
+size 2048 thread 2 power 12 avg_elapsed 2431.56
+size 2048 thread 2 power 6 avg_elapsed 2605.11
+size 2048 thread 2 power 14 avg_elapsed 2605.34
+size 2048 thread 2 power 8 avg_elapsed 2779.20
+size 2048 thread 2 power 16 avg_elapsed 2813.96
+numthread 4
+size 2048 thread 4 power 6 avg_elapsed 3034.05
+size 2048 thread 4 power 14 avg_elapsed 3039.35
+size 2048 thread 4 power 10 avg_elapsed 3040.37
+size 2048 thread 4 power 2 avg_elapsed 3042.04
+size 2048 thread 4 power 8 avg_elapsed 3244.57
+size 2048 thread 4 power 12 avg_elapsed 3281.62
+size 2048 thread 4 power 4 avg_elapsed 3294.65
+size 2048 thread 4 power 16 avg_elapsed 3354.84
+
+

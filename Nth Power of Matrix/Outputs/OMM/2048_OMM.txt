@@ -1,0 +1,208 @@
+elapsed time = 47.10 seconds.
+ 
+elapsed time = 93.75 seconds.
+ 
+elapsed time = 135.57 seconds.
+ 
+elapsed time = 181.82 seconds.
+ 
+elapsed time = 225.10 seconds.
+ 
+elapsed time = 269.72 seconds.
+ 
+elapsed time = 314.71 seconds.
+ 
+elapsed time = 375.70 seconds.
+ 
+elapsed time = 406.03 seconds.
+ 
+elapsed time = 455.51 seconds.
+ 
+elapsed time = 498.38 seconds.
+ 
+elapsed time = 541.18 seconds.
+ 
+elapsed time = 583.92 seconds.
+ 
+elapsed time = 628.50 seconds.
+ 
+elapsed time = 672.55 seconds.
+ 
+2048 2 2 
+elapsed time = 45.11 seconds.
+ 
+2048 2 3 
+elapsed time = 56.40 seconds.
+ 
+2048 2 4 
+elapsed time = 101.31 seconds.
+ 
+2048 2 5 
+elapsed time = 112.96 seconds.
+ 
+2048 2 6 
+elapsed time = 158.23 seconds.
+ 
+2048 2 7 
+elapsed time = 169.08 seconds.
+ 
+2048 2 8 
+elapsed time = 214.19 seconds.
+ 
+2048 2 9 
+elapsed time = 226.96 seconds.
+ 
+2048 2 10 
+elapsed time = 272.02 seconds.
+ 
+2048 2 11 
+elapsed time = 284.07 seconds.
+ 
+2048 2 12 
+elapsed time = 327.77 seconds.
+ 
+2048 2 13 
+elapsed time = 340.16 seconds.
+ 
+2048 2 14 
+elapsed time = 386.02 seconds.
+ 
+2048 2 15 
+elapsed time = 396.14 seconds.
+ 
+2048 2 16 
+elapsed time = 437.81 seconds.
+ 
+2048 4 2 
+elapsed time = 44.96 seconds.
+ 
+2048 4 3 
+elapsed time = 56.29 seconds.
+ 
+2048 4 4 
+elapsed time = 56.10 seconds.
+ 
+2048 4 5 
+elapsed time = 59.38 seconds.
+ 
+2048 4 6 
+elapsed time = 107.14 seconds.
+ 
+2048 4 7 
+elapsed time = 138.05 seconds.
+ 
+2048 4 8 
+elapsed time = 148.47 seconds.
+ 
+2048 4 9 
+elapsed time = 166.24 seconds.
+ 
+2048 4 10 
+elapsed time = 165.13 seconds.
+ 
+2048 4 11 
+elapsed time = 177.33 seconds.
+ 
+2048 4 12 
+elapsed time = 175.60 seconds.
+ 
+2048 4 13 
+elapsed time = 243.62 seconds.
+ 
+2048 4 14 
+elapsed time = 214.12 seconds.
+ 
+2048 4 15 
+elapsed time = 306.09 seconds.
+ 
+2048 4 16 
+elapsed time = 316.96 seconds.
+ 
+2048 6 2 
+elapsed time = 44.81 seconds.
+ 
+2048 6 3 
+elapsed time = 56.64 seconds.
+ 
+2048 6 4 
+elapsed time = 56.05 seconds.
+ 
+2048 6 5 
+elapsed time = 81.54 seconds.
+ 
+2048 6 6 
+elapsed time = 67.85 seconds.
+ 
+2048 6 7 
+elapsed time = 152.93 seconds.
+ 
+2048 6 8 
+elapsed time = 146.20 seconds.
+ 
+2048 6 9 
+elapsed time = 133.14 seconds.
+ 
+2048 6 10 
+elapsed time = 142.20 seconds.
+ 
+2048 6 11 
+elapsed time = 164.90 seconds.
+ 
+2048 6 12 
+elapsed time = 194.72 seconds.
+ 
+2048 6 13 
+elapsed time = 209.25 seconds.
+ 
+2048 6 14 
+elapsed time = 204.44 seconds.
+ 
+2048 6 15 
+elapsed time = 209.73 seconds.
+ 
+2048 6 16 
+elapsed time = 249.30 seconds.
+ 
+2048 8 2 
+elapsed time = 46.60 seconds.
+ 
+2048 8 3 
+elapsed time = 57.19 seconds.
+ 
+2048 8 4 
+elapsed time = 73.45 seconds.
+ 
+2048 8 5 
+elapsed time = 62.06 seconds.
+ 
+2048 8 6 
+elapsed time = 66.18 seconds.
+ 
+2048 8 7 
+elapsed time = 106.15 seconds.
+ 
+2048 8 8 
+elapsed time = 98.19 seconds.
+ 
+2048 8 9 
+elapsed time = 130.09 seconds.
+ 
+2048 8 10 
+elapsed time = 155.00 seconds.
+ 
+2048 8 11 
+elapsed time = 166.69 seconds.
+ 
+2048 8 12 
+elapsed time = 203.56 seconds.
+ 
+2048 8 13 
+elapsed time = 180.55 seconds.
+ 
+2048 8 14 
+elapsed time = 214.02 seconds.
+ 
+2048 8 15 
+elapsed time = 202.89 seconds.
+ 
+2048 8 16 

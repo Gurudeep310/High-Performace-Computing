@@ -1,0 +1,390 @@
+elapsed time = 3.46 seconds.
+ 
+elapsed time = 6.91 seconds.
+ 
+elapsed time = 10.58 seconds.
+ 
+elapsed time = 14.04 seconds.
+ 
+elapsed time = 17.62 seconds.
+ 
+elapsed time = 20.90 seconds.
+ 
+elapsed time = 24.62 seconds.
+ 
+elapsed time = 28.14 seconds.
+ 
+elapsed time = 30.95 seconds.
+ 
+elapsed time = 34.21 seconds.
+ 
+elapsed time = 38.06 seconds.
+ 
+elapsed time = 41.96 seconds.
+ 
+elapsed time = 45.40 seconds.
+ 
+elapsed time = 49.42 seconds.
+ 
+elapsed time = 52.56 seconds.
+ 
+1024 2 2 
+elapsed time = 3.50 seconds.
+ 
+1024 2 3 
+elapsed time = 4.32 seconds.
+ 
+1024 2 4 
+elapsed time = 7.91 seconds.
+ 
+1024 2 5 
+elapsed time = 8.96 seconds.
+ 
+1024 2 6 
+elapsed time = 12.24 seconds.
+ 
+1024 2 7 
+elapsed time = 13.45 seconds.
+ 
+1024 2 8 
+elapsed time = 16.93 seconds.
+ 
+1024 2 9 
+elapsed time = 17.72 seconds.
+ 
+1024 2 10 
+elapsed time = 24.15 seconds.
+ 
+1024 2 11 
+elapsed time = 22.41 seconds.
+ 
+1024 2 12 
+elapsed time = 25.06 seconds.
+ 
+1024 2 13 
+elapsed time = 28.29 seconds.
+ 
+1024 2 14 
+elapsed time = 30.49 seconds.
+ 
+1024 2 15 
+elapsed time = 30.52 seconds.
+ 
+1024 2 16 
+elapsed time = 42.31 seconds.
+ 
+1024 4 2 
+elapsed time = 3.49 seconds.
+ 
+1024 4 3 
+elapsed time = 5.61 seconds.
+ 
+1024 4 4 
+elapsed time = 5.04 seconds.
+ 
+1024 4 5 
+elapsed time = 6.04 seconds.
+ 
+1024 4 6 
+elapsed time = 11.86 seconds.
+ 
+1024 4 7 
+elapsed time = 10.61 seconds.
+ 
+1024 4 8 
+elapsed time = 10.42 seconds.
+ 
+1024 4 9 
+elapsed time = 14.93 seconds.
+ 
+1024 4 10 
+elapsed time = 16.81 seconds.
+ 
+1024 4 11 
+elapsed time = 14.41 seconds.
+ 
+1024 4 12 
+elapsed time = 15.54 seconds.
+ 
+1024 4 13 
+elapsed time = 22.12 seconds.
+ 
+1024 4 14 
+elapsed time = 17.63 seconds.
+ 
+1024 4 15 
+elapsed time = 27.39 seconds.
+ 
+1024 4 16 
+elapsed time = 21.23 seconds.
+ 
+1024 6 2 
+elapsed time = 3.41 seconds.
+ 
+1024 6 3 
+elapsed time = 4.34 seconds.
+ 
+1024 6 4 
+elapsed time = 4.39 seconds.
+ 
+1024 6 5 
+elapsed time = 5.56 seconds.
+ 
+1024 6 6 
+elapsed time = 7.30 seconds.
+ 
+1024 6 7 
+elapsed time = 8.49 seconds.
+ 
+1024 6 8 
+elapsed time = 11.70 seconds.
+ 
+1024 6 9 
+elapsed time = 12.73 seconds.
+ 
+1024 6 10 
+elapsed time = 14.61 seconds.
+ 
+1024 6 11 
+elapsed time = 17.34 seconds.
+ 
+1024 6 12 
+elapsed time = 15.83 seconds.
+ 
+1024 6 13 
+elapsed time = 20.34 seconds.
+ 
+1024 6 14 
+elapsed time = 20.78 seconds.
+ 
+1024 6 15 
+elapsed time = 22.56 seconds.
+ 
+1024 6 16 
+elapsed time = 23.51 seconds.
+ 
+1024 8 2 
+elapsed time = 3.41 seconds.
+ 
+1024 8 3 
+elapsed time = 5.85 seconds.
+ 
+1024 8 4 
+elapsed time = 4.22 seconds.
+ 
+1024 8 5 
+elapsed time = 7.32 seconds.
+ 
+1024 8 6 
+elapsed time = 7.74 seconds.
+ 
+1024 8 7 
+elapsed time = 11.33 seconds.
+ 
+1024 8 8 
+elapsed time = 11.89 seconds.
+ 
+1024 8 9 
+elapsed time = 14.33 seconds.
+ 
+1024 8 10 
+elapsed time = 16.74 seconds.
+ 
+1024 8 11 
+elapsed time = 18.75 seconds.
+ 
+1024 8 12 
+elapsed time = 17.58 seconds.
+ 
+1024 8 13 
+elapsed time = 20.51 seconds.
+ 
+1024 8 14 
+elapsed time = 23.19 seconds.
+ 
+1024 8 15 
+elapsed time = 23.18 seconds.
+ 
+1024 8 16 
+elapsed time = 25.07 seconds.
+ 
+1024 10 2 
+elapsed time = 3.40 seconds.
+ 
+1024 10 3 
+elapsed time = 4.25 seconds.
+ 
+1024 10 4 
+elapsed time = 5.11 seconds.
+ 
+1024 10 5 
+elapsed time = 5.57 seconds.
+ 
+1024 10 6 
+elapsed time = 7.33 seconds.
+ 
+1024 10 7 
+elapsed time = 10.00 seconds.
+ 
+1024 10 8 
+elapsed time = 11.82 seconds.
+ 
+1024 10 9 
+elapsed time = 12.79 seconds.
+ 
+1024 10 10 
+elapsed time = 16.06 seconds.
+ 
+1024 10 11 
+elapsed time = 18.43 seconds.
+ 
+1024 10 12 
+elapsed time = 19.20 seconds.
+ 
+1024 10 13 
+elapsed time = 21.94 seconds.
+ 
+1024 10 14 
+elapsed time = 21.82 seconds.
+ 
+1024 10 15 
+elapsed time = 25.51 seconds.
+ 
+1024 10 16 
+elapsed time = 25.41 seconds.
+ 
+1024 12 2 
+elapsed time = 3.41 seconds.
+ 
+1024 12 3 
+elapsed time = 4.97 seconds.
+ 
+1024 12 4 
+elapsed time = 4.67 seconds.
+ 
+1024 12 5 
+elapsed time = 7.32 seconds.
+ 
+1024 12 6 
+elapsed time = 9.18 seconds.
+ 
+1024 12 7 
+elapsed time = 9.14 seconds.
+ 
+1024 12 8 
+elapsed time = 9.21 seconds.
+ 
+1024 12 9 
+elapsed time = 13.48 seconds.
+ 
+1024 12 10 
+elapsed time = 15.55 seconds.
+ 
+1024 12 11 
+elapsed time = 17.84 seconds.
+ 
+1024 12 12 
+elapsed time = 17.98 seconds.
+ 
+1024 12 13 
+elapsed time = 21.51 seconds.
+ 
+1024 12 14 
+elapsed time = 23.68 seconds.
+ 
+1024 12 15 
+elapsed time = 22.90 seconds.
+ 
+1024 12 16 
+elapsed time = 29.80 seconds.
+ 
+1024 14 2 
+elapsed time = 3.41 seconds.
+ 
+1024 14 3 
+elapsed time = 4.22 seconds.
+ 
+1024 14 4 
+elapsed time = 4.43 seconds.
+ 
+1024 14 5 
+elapsed time = 5.47 seconds.
+ 
+1024 14 6 
+elapsed time = 8.27 seconds.
+ 
+1024 14 7 
+elapsed time = 10.48 seconds.
+ 
+1024 14 8 
+elapsed time = 12.40 seconds.
+ 
+1024 14 9 
+elapsed time = 14.57 seconds.
+ 
+1024 14 10 
+elapsed time = 15.23 seconds.
+ 
+1024 14 11 
+elapsed time = 17.08 seconds.
+ 
+1024 14 12 
+elapsed time = 17.16 seconds.
+ 
+1024 14 13 
+elapsed time = 20.73 seconds.
+ 
+1024 14 14 
+elapsed time = 23.38 seconds.
+ 
+1024 14 15 
+elapsed time = 25.75 seconds.
+ 
+1024 14 16 
+elapsed time = 28.08 seconds.
+ 
+1024 16 2 
+elapsed time = 3.41 seconds.
+ 
+1024 16 3 
+elapsed time = 4.32 seconds.
+ 
+1024 16 4 
+elapsed time = 4.54 seconds.
+ 
+1024 16 5 
+elapsed time = 7.40 seconds.
+ 
+1024 16 6 
+elapsed time = 7.44 seconds.
+ 
+1024 16 7 
+elapsed time = 9.81 seconds.
+ 
+1024 16 8 
+elapsed time = 9.52 seconds.
+ 
+1024 16 9 
+elapsed time = 13.31 seconds.
+ 
+1024 16 10 
+elapsed time = 16.31 seconds.
+ 
+1024 16 11 
+elapsed time = 16.96 seconds.
+ 
+1024 16 12 
+elapsed time = 19.82 seconds.
+ 
+1024 16 13 
+elapsed time = 21.65 seconds.
+ 
+1024 16 14 
+elapsed time = 22.54 seconds.
+ 
+1024 16 15 
+elapsed time = 25.16 seconds.
+ 
+1024 16 16 
+elapsed time = 27.53 seconds.
+ 

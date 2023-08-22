@@ -1,0 +1,2 @@
+gcc 2_MatrixOP_1.c -o 2_M_1 -fopenmp;
+./2_M_1 1000
