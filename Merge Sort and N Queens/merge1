@@ -1,0 +1,11 @@
+int Merge
+Threads 1 elapsed time = 2.73 seconds.
+Threads 2 elapsed time = 1.09 seconds.
+Threads 4 elapsed time = 0.96 seconds.
+Threads 6 elapsed time = 2.17 seconds.
+Threads 8 elapsed time = 2.35 seconds.
+Threads 10 elapsed time = 2.09 seconds.
+Threads 12 elapsed time = 1.27 seconds.
+Threads 14 elapsed time = 2.37 seconds.
+Threads 16 elapsed time = 2.68 seconds.
+Test passed

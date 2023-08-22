@@ -1,0 +1,48 @@
+Enter the number of queens: 10
+Threads 1 Time taken: 0.057269 seconds
+Threads 2 Time taken: 0.058542 seconds
+Threads 4 Time taken: 0.047508 seconds
+Threads 6 Time taken: 0.019614 seconds
+Threads 8 Time taken: 0.015398 seconds
+Threads 10 Time taken: 0.017829 seconds
+Threads 12 Time taken: 0.026805 seconds
+Threads 14 Time taken: 0.038735 seconds
+Threads 16 Time taken: 0.049066 seconds
+Enter the number of queens: 12
+Threads 1 Time taken: 0.456907 seconds
+Threads 2 Time taken: 0.344115 seconds
+Threads 4 Time taken: 0.342624 seconds
+Threads 6 Time taken: 0.451744 seconds
+Threads 8 Time taken: 0.352538 seconds
+Threads 10 Time taken: 0.551953 seconds
+Threads 12 Time taken: 0.351932 seconds
+Threads 14 Time taken: 0.450616 seconds
+Threads 16 Time taken: 0.469855 seconds
+Enter the number of queens: 14
+Threads 1 Time taken: 11.664644 seconds
+Threads 2 Time taken: 11.638832 seconds
+Threads 4 Time taken: 11.643360 seconds
+Threads 6 Time taken: 11.671172 seconds
+Threads 8 Time taken: 11.977784 seconds
+Threads 10 Time taken: 12.163320 seconds
+Threads 12 Time taken: 11.998473 seconds
+Threads 14 Time taken: 12.152596 seconds
+Threads 16 Time taken: 11.908355 seconds
+
+Enter the number of queens: 16
+Threads 1 Time taken: 512.638888 seconds
+Threads 2 Time taken: 525.815648 seconds
+Threads 4 Time taken: 522.525978 seconds
+Threads 6 Time taken: 529.594553 seconds
+Threads 8 Time taken: 530.476698 seconds
+Threads 10 Time taken: 531.211760 seconds
+Threads 12 Time taken: 528.393893 seconds
+Threads 14 Time taken: 526.313974 seconds
+Threads 16 Time taken: 524.605278 seconds
+
+
+
+
+
+
+
